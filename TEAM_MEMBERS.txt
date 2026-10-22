@@ -1,0 +1,19 @@
+Course: CPSC 473 - Introduction to Data Mining
+Assignment: 1
+Team name: [Tech Nova]
+
+Member 1: Raj Vimal Talaviya
+Student number: 230155230
+UNBC email: [talaviya@unbc.ca]
+
+Member 2: [Dvij Pandya]
+Student number: []
+UNBC email: []
+
+Member 3: [Mayank Chawda]
+Student number: [230158323]
+UNBC email: [chawda@unbc.ca]
+
+Member 4: []
+Student number: []
+UNBC email: []
